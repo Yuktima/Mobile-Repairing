@@ -17,8 +17,8 @@
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate to the project directory: `cd your-repo`
+1. Clone the repository: `git clone https://github.com/Yuktima/Mobile-Repairing/tree/master/MobileRepairingNew`
+2. Navigate to the project directory: `cd MobileRepairingNew`
 6. Access the website in your browser: `http://localhost:8080`
 
 ## Contact
